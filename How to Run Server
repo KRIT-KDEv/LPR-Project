@@ -1,0 +1,23 @@
+Check Path that correct but not correct do
+
+1.cd C:\Users\advlb\Desktop\LPR_LOCAL\ocr-server 
+
+activate venv
+2. .\venv\Scripts\activate 
+
+recheck venv that correct 
+
+3. 
+
+4. Run server
+python -m uvicorn main:app --host 127.0.0.1 --port 8002
+
+Actives venv App 
+
+cd C:\Users\advlb\Desktop\LPR_LOCAL 
+
+.\venv_app\Scripts\activate
+
+Run Dashboard 
+
+python -m streamlit run app.py

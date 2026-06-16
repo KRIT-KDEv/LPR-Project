@@ -1,0 +1,48 @@
+# =========================
+# Python / Cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+venv_app/
+.venv/
+env/
+
+# =========================
+# OCR Server / OCR Model
+# =========================
+ocr-server/
+ocr1_1/
+
+# =========================
+# Runtime Files
+# =========================
+outputs/
+uploads/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Env / Secrets
+# =========================
+.env
+.env.local
+.env.*
